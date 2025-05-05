@@ -4,6 +4,8 @@ Wypisz Ojczyzna (wersja) Alfa. Autorski projekt języka ezoterycznego w ramach p
 
 Jest to wersja Alfa, przez co może wciąż mieć wiele błędów. Jeśli ktoś tu zajrzy i stwierdzi, że wygląda całkiem ciekawie, może śmiało podjąć się rozbudowywania tego języka i interpretera w ramach forków czy w jakiejś innej formie, jeśli ma taką ochotę. To repozytorium nie będzie raczej aktualizowane.
 
+> Aby uruchomić interpreter należy mieć zainstalowany Python na komputerze i uruchomić poprzez konsolę wpisując `python interpreter.py` będąc w folderze z plikiem .py. Ewentualnie skompilować to do pliku .exe.
+
 ## SŁOWA KLUCZOWE:
 
 ```
